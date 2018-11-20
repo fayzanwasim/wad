@@ -1,0 +1,17 @@
+
+@media only screen and (max-width: 400px) {
+    .col-6 {width: 50%;
+    display: inline-block;}
+}
+@media only screen and (min-width: 500px) {
+    .col-4 {width: 41.66%;display: inline-block;}
+}
+@media only screen and (min-width: 600px) {
+    .col-3 {width: 25%;display: inline-block;}
+}
+@media only screen and (min-width: 800px) {
+    .col-2 {width: 16.66%;display: inline-block;}
+}
+@media only screen and (min-width:1000px) {
+    .col-1 {width: 8.33%;display: inline-block;}
+}
